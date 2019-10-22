@@ -11,3 +11,9 @@ export const Code = styled.View`
   background: #fff;
   padding: 8px;
 `;
+
+export const Nav = styled.Text``;
+
+export const NavItem = styled.Text``;
+
+export const NavText = styled.Text``;
