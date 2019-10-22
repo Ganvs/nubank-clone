@@ -41,7 +41,7 @@ export default function Main() {
       <Header />
 
       <Content>
-        <Menu />
+        <Menu translateY={translateY} />
 
         <PanGestureHandler
           onGestureEvent={animatedEvent}
@@ -51,8 +51,8 @@ export default function Main() {
               transform: [
                 {
                   translateY: translateY.interpolate({
-                    inputRange: [0, 380],
-                    outputRange: [0, 380],
+                    inputRange: [-350, 0, 380],
+                    outputRange: [-50, 0, 380],
                     extrapolate: 'clamp',
                   }),
                 },
