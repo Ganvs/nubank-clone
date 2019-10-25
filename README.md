@@ -19,9 +19,9 @@
 Aplicação construida com intuito de testar a animação existente no app original da Nubank,
 onde ao arrastar um componente para baixo, é apresentado um menu, como ilustrado na gif abaixo.
 <br>
+<br>
+<img src="./img/nugif.gif">
 </h6>
-
-<img src="./img/nugif.gif" align="center">
 
 <!-- PROJECT LOGO -->
 <br />
