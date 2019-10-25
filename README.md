@@ -13,6 +13,14 @@
 [![GitHub last commit](https://img.shields.io/github/last-commit/rocketseat/react-native-template-rocketseat-basic.svg)](https://github.com/Rocketseat/react-native-template-rocketseat-basic/commits/master)
 [![NPM](https://img.shields.io/npm/l/react-native-template-rocketseat-basic.svg)](https://choosealicense.com/licenses/mit)
 
+<h1 align="center">Nubank clone app</h1>
+
+<h6 align="center">
+Aplicação construida com intuito de testar a animação existente no app original da Nubank,
+onde ao arrastar um componente para baixo, é apresentado um menu, como ilustrado na gif abaixo.
+<br>
+</h6>
+
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
