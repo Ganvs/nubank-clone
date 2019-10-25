@@ -23,6 +23,8 @@ onde ao arrastar um componente para baixo, é apresentado um menu, como ilustrad
   </a>
 
   <h3 align="center">Template Rocketseat Basic</h3>
+  <br>
+  <h3 align="center">Toda a documentação abaixo foi criada pelo template da Rocketseat</h3>
 </p>
 
 <!-- TABLE OF CONTENTS -->
