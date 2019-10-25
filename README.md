@@ -21,6 +21,8 @@ onde ao arrastar um componente para baixo, é apresentado um menu, como ilustrad
 <br>
 </h6>
 
+<img src="./img/nugif.gif">
+
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
